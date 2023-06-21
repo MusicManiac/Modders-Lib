@@ -1,0 +1,31 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TSimpleRequisite/./
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TGridSkillGroupTier/./
+msgid "HIGHER_LEVEL_TIER_FRAMEWORK@RESEARCH_DEFINITIONS@TIER_IX"
+msgstr ""
+
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TSimpleRequisite/./
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TGridSkillGroupTier/./
+msgid "HIGHER_LEVEL_TIER_FRAMEWORK@RESEARCH_DEFINITIONS@TIER_VI"
+msgstr ""
+
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TSimpleRequisite/./
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TGridSkillGroupTier/./
+msgid "HIGHER_LEVEL_TIER_FRAMEWORK@RESEARCH_DEFINITIONS@TIER_VII"
+msgstr ""
+
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TSimpleRequisite/./
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TGridSkillGroupTier/./
+msgid "HIGHER_LEVEL_TIER_FRAMEWORK@RESEARCH_DEFINITIONS@TIER_VIII"
+msgstr ""
+
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TSimpleRequisite/./
+#: HIGHER_LEVEL_TOMES_FRAMEWORK.RPK:././././TGridSkillGroupTier/./
+msgid "HIGHER_LEVEL_TIER_FRAMEWORK@RESEARCH_DEFINITIONS@TIER_X"
+msgstr ""
+
